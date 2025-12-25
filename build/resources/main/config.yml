@@ -1,7 +1,0 @@
-# NPC - konfiguracja
-# W tej wersji większość UX jest w kodzie, ale config zostawiamy na przyszłą rozbudowę.
-# Kolejne wersje mogą dodać konfigurację slotów, ikon, materiałów itp.
-
-messages:
-  prefix: "&8[&eNPC&8]&r "
-
