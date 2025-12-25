@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # Tigoku-NPC (Paper/Spigot 1.20+)
 
 A production-ready plugin for creating **custom NPCs** (Villagers and other mobs) and managing their **custom trades** through a clean, intuitive GUI.
